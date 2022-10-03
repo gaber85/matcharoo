@@ -1,3 +1,3 @@
 import type { FC } from 'react';
 
-export const App: FC = () => <div className="test">'Hello World!'</div>;
+export const App: FC = () => <div>Hello World!</div>;
